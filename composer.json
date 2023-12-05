@@ -18,6 +18,7 @@
   },
   "require": {
     "php": "^8.2",
+    "ext-ctype": "*",
     "guzzlehttp/guzzle": "^7.8",
     "paquettg/php-html-parser": "^3.1",
     "league/html-to-markdown": "^5.1"
